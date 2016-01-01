@@ -1,0 +1,23 @@
+﻿IsolatedStorageSettings.ApplicationSettings["pushup_data"];
+IsolatedStorageSettings.ApplicationSettings["pushup_best"];
+
+IsolatedStorageSettings.ApplicationSettings["daily_goal"];
+
+String IsolatedStorageSettings.ApplicationSettings["username"]
+int IsolatedStorageSettings.ApplicationSettings["age"]
+double IsolatedStorageSettings.ApplicationSettings["height"]
+double IsolatedStorageSettings.ApplicationSettings["weight"]
+bool IsolatedStorageSettings.ApplicationSettings["genderisMale"]
+
+double IsolatedStorageSettings.ApplicationSettings["BMI_data_top"]
+list<double> IsolatedStorageSettings.ApplicationSettings["BMI_data"]
+list<double> IsolatedStorageSettings.ApplicationSettings["BMI_datetime"]
+list<double> IsolatedStorageSettings.ApplicationSettings["BMI_cat"]
+
+IsolatedStorageSettings.ApplicationSettings["calBurned_today"];
+IsolatedStorageSettings.ApplicationSettings["BMI_data_top"];
+IsolatedStorageSettings.ApplicationSettings["pushup_today"];
+IsolatedStorageSettings.ApplicationSettings["pullup_today"];
+IsolatedStorageSettings.ApplicationSettings["distance_today"];
+IsolatedStorageSettings.ApplicationSettings["today_cal"];
+IsolatedStorageSettings.ApplicationSettings["cal_data"]; //dictionary<date,cal>

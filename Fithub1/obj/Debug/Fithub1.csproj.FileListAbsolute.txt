@@ -1,0 +1,449 @@
+c:\users\teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\Fithub1.dll
+c:\users\teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\Fithub1.pdb
+c:\users\teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\AppManifest.xaml
+c:\users\teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\Fithub1_Debug_AnyCPU.xap
+c:\users\teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\obj\Debug\App.g.cs
+c:\users\teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\obj\Debug\MainPage.g.cs
+c:\users\teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\obj\Debug\Fithub1.g.resources
+c:\users\teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\obj\Debug\Fithub1.Resources.AppResources.resources
+c:\users\teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\obj\Debug\Fithub1.csproj.GenerateResource.Cache
+c:\users\teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\obj\Debug\Fithub1.dll
+c:\users\teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\obj\Debug\Fithub1.pdb
+c:\users\teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\obj\Debug\XapCacheFile.xml
+c:\users\teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\bg_start.jpg
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\Assets\AppBar\basecircle.png
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\Assets\AppBar\check.png
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\obj\Debug\Fithub1.csprojResolveAssemblyReference.cache
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\obj\Debug\PivotPage1.g.cs
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\obj\Debug\BMI.g.cs
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\obj\Debug\WelcomeSlide.g.cs
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\obj\Debug\PushUp.g.cs
+C:\Users\Teresa\Documents\Visual Studio 2012\Projects\Fithub1\Fithub1\obj\Debug\PullUp.g.cs
+C:\Users\Teresa\Documents\Visual Studio 2012\Projects\Fithub1\Fithub1\obj\Debug\Running.g.cs
+C:\Users\Teresa\Documents\Visual Studio 2012\Projects\Fithub1\Fithub1\obj\Debug\SquatJump.g.cs
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\Assets\AppBar\feature.settings.png
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\Assets\AppBar\questionmark.png
+C:\Users\Teresa\Documents\Visual Studio 2012\Projects\Fithub1\Fithub1\obj\Debug\Settings.g.cs
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\obj\Debug\MainPage2.g.cs
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\obj\Debug\Page1.g.cs
+C:\Users\Teresa\documents\visual studio 2012\Projects\Fithub1\Fithub1\obj\Debug\SitUp.g.cs
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\Assets\AppBar\basecircle.png
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\Assets\AppBar\check.png
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\Assets\AppBar\feature.settings.png
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\Assets\AppBar\questionmark.png
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\Assets\ApplicationIcon.png
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\Fithub1.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\Fithub1.pdb
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\Microsoft.Expression.Drawing.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\Microsoft.Expression.Interactions.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\System.Windows.Interactivity.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\ru\System.Windows.Interactivity.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\obj\Debug\Fithub1.csprojResolveAssemblyReference.cache
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\obj\Debug\App.g.cs
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\obj\Debug\BMI.g.cs
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\obj\Debug\MainPage.g.cs
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\obj\Debug\MainPage2.g.cs
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\obj\Debug\Page1.g.cs
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\obj\Debug\PivotPage1.g.cs
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\obj\Debug\PullUp.g.cs
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\obj\Debug\PushUp.g.cs
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\obj\Debug\Running.g.cs
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\obj\Debug\Settings.g.cs
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\obj\Debug\SitUp.g.cs
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\obj\Debug\SquatJump.g.cs
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\obj\Debug\WelcomeSlide.g.cs
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\obj\Debug\Fithub1.g.resources
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\obj\Debug\Fithub1.Resources.AppResources.resources
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\obj\Debug\Fithub1.csproj.GenerateResource.Cache
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\obj\Debug\Fithub1.dll
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\obj\Debug\Fithub1.pdb
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\AppManifest.xaml
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\Properties\WMAppManifest.xml
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\Fithub1_Debug_AnyCPU.xap
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\obj\Debug\XapCacheFile.xml
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\Assets\AppBar\basecircle.png
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\Assets\AppBar\check.png
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\Assets\AppBar\feature.settings.png
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\Assets\AppBar\questionmark.png
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\Assets\ApplicationIcon.png
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\bg_start.jpg
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\Fithub1.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\Fithub1.pdb
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\AppManifest.xaml
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\Properties\WMAppManifest.xml
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\Fithub1_Debug_AnyCPU.xap
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\Microsoft.Expression.Drawing.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\Microsoft.Expression.Interactions.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\System.Windows.Interactivity.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\ru\System.Windows.Interactivity.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\aWPacil\2\Fithub1\Fithub1\obj\Debug\Fithub1.csprojResolveAssemblyReference.cache
+E:\aWPacil\2\Fithub1\Fithub1\obj\Debug\App.g.cs
+E:\aWPacil\2\Fithub1\Fithub1\obj\Debug\BMI.g.cs
+E:\aWPacil\2\Fithub1\Fithub1\obj\Debug\MainPage.g.cs
+E:\aWPacil\2\Fithub1\Fithub1\obj\Debug\MainPage2.g.cs
+E:\aWPacil\2\Fithub1\Fithub1\obj\Debug\Page1.g.cs
+E:\aWPacil\2\Fithub1\Fithub1\obj\Debug\PivotPage1.g.cs
+E:\aWPacil\2\Fithub1\Fithub1\obj\Debug\PullUp.g.cs
+E:\aWPacil\2\Fithub1\Fithub1\obj\Debug\PushUp.g.cs
+E:\aWPacil\2\Fithub1\Fithub1\obj\Debug\Running.g.cs
+E:\aWPacil\2\Fithub1\Fithub1\obj\Debug\Settings.g.cs
+E:\aWPacil\2\Fithub1\Fithub1\obj\Debug\SitUp.g.cs
+E:\aWPacil\2\Fithub1\Fithub1\obj\Debug\SquatJump.g.cs
+E:\aWPacil\2\Fithub1\Fithub1\obj\Debug\WelcomeSlide.g.cs
+E:\aWPacil\2\Fithub1\Fithub1\obj\Debug\Fithub1.g.resources
+E:\aWPacil\2\Fithub1\Fithub1\obj\Debug\Fithub1.Resources.AppResources.resources
+E:\aWPacil\2\Fithub1\Fithub1\obj\Debug\Fithub1.csproj.GenerateResource.Cache
+E:\aWPacil\2\Fithub1\Fithub1\obj\Debug\Fithub1.dll
+E:\aWPacil\2\Fithub1\Fithub1\obj\Debug\Fithub1.pdb
+E:\aWPacil\2\Fithub1\Fithub1\obj\Debug\XapCacheFile.xml
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\Bin\Debug\Images\bg_start.jpg
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\obj\Debug\Summary.g.cs
+E:\Microsoft Innovation Center\Competition\Vocomfest 2014 Project\Fithub1\Fithub1\obj\Debug\Biking.g.cs
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\Assets\AppBar\basecircle.png
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\Assets\AppBar\check.png
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\Assets\AppBar\feature.settings.png
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\Assets\AppBar\questionmark.png
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\Assets\ApplicationIcon.png
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\Images\bg_start.jpg
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\Fithub1.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\Fithub1.pdb
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\AppManifest.xaml
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\Properties\WMAppManifest.xml
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\Fithub1_Debug_AnyCPU.xap
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\Microsoft.Expression.Drawing.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\Microsoft.Expression.Interactions.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\Microsoft.Phone.Controls.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\System.Windows.Interactivity.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\ru\System.Windows.Interactivity.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\obj\Debug\Fithub1.csprojResolveAssemblyReference.cache
+B:\MIC\vocomfest\Fithub1\Fithub1\obj\Debug\App.g.cs
+B:\MIC\vocomfest\Fithub1\Fithub1\obj\Debug\Biking.g.cs
+B:\MIC\vocomfest\Fithub1\Fithub1\obj\Debug\BMI.g.cs
+B:\MIC\vocomfest\Fithub1\Fithub1\obj\Debug\MainPage.g.cs
+B:\MIC\vocomfest\Fithub1\Fithub1\obj\Debug\MainPage2.g.cs
+B:\MIC\vocomfest\Fithub1\Fithub1\obj\Debug\Page1.g.cs
+B:\MIC\vocomfest\Fithub1\Fithub1\obj\Debug\PivotPage1.g.cs
+B:\MIC\vocomfest\Fithub1\Fithub1\obj\Debug\PullUp.g.cs
+B:\MIC\vocomfest\Fithub1\Fithub1\obj\Debug\PushUp.g.cs
+B:\MIC\vocomfest\Fithub1\Fithub1\obj\Debug\Running.g.cs
+B:\MIC\vocomfest\Fithub1\Fithub1\obj\Debug\Settings.g.cs
+B:\MIC\vocomfest\Fithub1\Fithub1\obj\Debug\SitUp.g.cs
+B:\MIC\vocomfest\Fithub1\Fithub1\obj\Debug\SquatJump.g.cs
+B:\MIC\vocomfest\Fithub1\Fithub1\obj\Debug\Summary.g.cs
+B:\MIC\vocomfest\Fithub1\Fithub1\obj\Debug\WelcomeSlide.g.cs
+B:\MIC\vocomfest\Fithub1\Fithub1\obj\Debug\Fithub1.g.resources
+B:\MIC\vocomfest\Fithub1\Fithub1\obj\Debug\Fithub1.Resources.AppResources.resources
+B:\MIC\vocomfest\Fithub1\Fithub1\obj\Debug\Fithub1.csproj.GenerateResource.Cache
+B:\MIC\vocomfest\Fithub1\Fithub1\obj\Debug\Fithub1.dll
+B:\MIC\vocomfest\Fithub1\Fithub1\obj\Debug\Fithub1.pdb
+B:\MIC\vocomfest\Fithub1\Fithub1\obj\Debug\XapCacheFile.xml
+B:\MIC\vocomfest\Fithub1\Fithub1\obj\Debug\Page2.g.cs

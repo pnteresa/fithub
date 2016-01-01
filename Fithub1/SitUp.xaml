@@ -1,0 +1,92 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="Fithub1.SitUp"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:toolkit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+    
+    <!-- Page transition code-->
+    <toolkit:TransitionService.NavigationInTransition>
+        <toolkit:NavigationInTransition>
+            <toolkit:NavigationInTransition.Backward>
+                <toolkit:TurnstileTransition Mode="BackwardIn" />
+            </toolkit:NavigationInTransition.Backward>
+            <toolkit:NavigationInTransition.Forward>
+                <toolkit:TurnstileTransition Mode="ForwardIn" />
+            </toolkit:NavigationInTransition.Forward>
+        </toolkit:NavigationInTransition>
+    </toolkit:TransitionService.NavigationInTransition>
+    <toolkit:TransitionService.NavigationOutTransition>
+        <toolkit:NavigationOutTransition>
+            <toolkit:NavigationOutTransition.Backward>
+                <toolkit:TurnstileTransition Mode="BackwardOut" />
+            </toolkit:NavigationOutTransition.Backward>
+            <toolkit:NavigationOutTransition.Forward>
+                <toolkit:TurnstileTransition Mode="ForwardOut" />
+            </toolkit:NavigationOutTransition.Forward>
+        </toolkit:NavigationOutTransition>
+    </toolkit:TransitionService.NavigationOutTransition>
+
+    
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot">
+        <Grid.Background>
+            <ImageBrush Stretch="UniformToFill" ImageSource="/Images/bg_situp.jpg"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        
+        <!-- Main grid, show the stats -->
+        <Grid HorizontalAlignment="Left" Height="765" Grid.RowSpan="2" VerticalAlignment="Top" Width="480">
+            <Grid.Background>
+                <ImageBrush Stretch="Fill"/>
+            </Grid.Background>
+            <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,630">
+                <TextBlock x:Name="fithub" Text="FITHUB" Style="{StaticResource PhoneTextNormalStyle}" Margin="12,0" FontFamily="{StaticResource FontFamily1}" FontSize="64" Opacity="0.495" Height="63"/>
+                <TextBlock x:Name="fithub_Copy" Style="{StaticResource PhoneTextNormalStyle}" Margin="12,0" FontFamily="{StaticResource FontFamily1}" FontSize="48" Height="55" Foreground="#FF0ED3E7" Text="SIT-UP"/>
+            </StackPanel>
+            <Button Click="Button_Click" x:Name="situp_b" Content="START" HorizontalAlignment="Center" Margin="70,610,65,65" VerticalAlignment="Center" BorderThickness="0" Width="345" Background="#FF0A0A0A" Foreground="#FF0ED3E7" Height="90" FontFamily="{StaticResource FontFamily1}" FontSize="32"/>
+            <TextBlock x:Name="situptime_tb" HorizontalAlignment="Left" Margin="30,525,0,0" TextWrapping="Wrap" Text="00:00:00" VerticalAlignment="Top" FontSize="64" FontFamily="{StaticResource FontFamily1}"/>
+            <TextBlock HorizontalAlignment="Left" Margin="25,503,0,0" TextWrapping="Wrap" Text="TIME ELAPSED" VerticalAlignment="Top" Foreground="#FF0ED3E7" FontSize="32" FontFamily="{StaticResource FontFamily1}"/>
+            <TextBlock x:Name="situprecord_tb" HorizontalAlignment="Left" Margin="422,527,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontFamily="{StaticResource FontFamily1}" Text="0" FontSize="64" TextAlignment="Right"/>
+            <TextBlock HorizontalAlignment="Left" Margin="320,505,0,0" TextWrapping="Wrap" Text="BEST RECORD" VerticalAlignment="Top" Foreground="#FF0ED3E7" FontSize="32" FontFamily="{StaticResource FontFamily1}"/>
+        </Grid>
+        <Ellipse Fill="#76000000" HorizontalAlignment="Left" Height="330" Margin="75,165,0,0" VerticalAlignment="Top" Width="330" RenderTransformOrigin="0.5,0.5" StrokeThickness="0"/>
+        <TextBlock x:Name="situpcount_tb" HorizontalAlignment="Center" TextWrapping="Wrap" Text="0" VerticalAlignment="Center" Foreground="#FF0ED3E7" FontFamily="{StaticResource FontFamily1}" FontSize="192" Margin="15,225,10,319" TextAlignment="Center" Width="455"/>
+        
+        <!-- How-to grid-->
+        <Grid Tap="Button_Click_1" x:Name="how_to_situp" HorizontalAlignment="Left" Height="765" VerticalAlignment="Top" Width="480" Background="#DC000000" Visibility="Collapsed">
+        	<Image HorizontalAlignment="Left" Height="395" Margin="35,0,-65,0" VerticalAlignment="Top" Width="510" Source="situp1.png"/>
+        	<TextBlock HorizontalAlignment="Left" Margin="101,293,0,0" TextWrapping="Wrap" Text="place your phone facing your face" VerticalAlignment="Top"/>
+        	<Image HorizontalAlignment="Left" Height="395" Margin="60,345,-90,0" VerticalAlignment="Top" Width="510" Source="situp2.png"/>
+        	<TextBlock HorizontalAlignment="Left" Margin="44,638,0,0" TextWrapping="Wrap" VerticalAlignment="Top">
+        		<Run Text="lift your body, keeping the phone facing "/>
+        		<Run Text="you"/>
+        	</TextBlock>
+        	<TextBlock HorizontalAlignment="Left" Margin="224,58,0,0" TextWrapping="Wrap" Text="1" VerticalAlignment="Top" FontFamily="{StaticResource FontFamily1}" FontSize="160" Foreground="#31FFFFFF"/>
+        	<TextBlock HorizontalAlignment="Left" Margin="349,395,0,0" TextWrapping="Wrap" Text="2" VerticalAlignment="Top" FontFamily="{StaticResource FontFamily1}" FontSize="160" Foreground="#31FFFFFF"/>
+        	<Button Content="OK" Click="Button_Click_1" HorizontalAlignment="Left" Margin="199,678,0,0" VerticalAlignment="Top" BorderBrush="{x:Null}" Background="Black" Foreground="#FF0ED3E7"/>
+        </Grid>
+        
+
+       
+    </Grid>
+    
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar Mode="Minimized">
+            <shell:ApplicationBarIconButton Click="howto_click"  IconUri="/Assets/AppBar/questionmark.png" IsEnabled="True" Text="how to use"/>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+</phone:PhoneApplicationPage>
